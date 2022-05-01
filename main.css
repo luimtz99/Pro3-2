@@ -27,10 +27,7 @@ body{
    font-style: normal;
 }
 
-/*Row*/
-.row>*{
-    margin: 0 auto; /* Allign rows center */
-}
+
 /*header h1,h3*/
 header h1{
     color: lightcyan;
